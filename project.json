@@ -1,0 +1,90 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "title": "Acne"
+    },
+    {
+      "id": 2,
+      "title": "Grüne Erde"
+    },
+    {
+      "id": 3,
+      "title": "Albiro"
+    },
+    {
+      "id": 4,
+      "title": "Ronhill"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "MENS"
+    },
+    {
+      "id": 2,
+      "title": "WOMENS"
+    },
+    {
+      "id": 3,
+      "title": "KIDS"
+    },
+    {
+      "title": "Fashion",
+      "id": 4
+    },
+    {
+      "title": "Bags",
+      "id": 5
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 1000,
+      "imgpath": "product1.jpg",
+      "catid": 1,
+      "brid": 1
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 2000,
+      "imgpath": "product2.jpg",
+      "catid": 2,
+      "brid": 3
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 3000,
+      "imgpath": "product3.jpg",
+      "catid": 3,
+      "brid": 2
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 4000,
+      "imgpath": "product4.jpg",
+      "catid": 1,
+      "brid": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fname": "Amruta",
+      "Emailid": "amruta@gmail.com",
+      "userpassword": "1111"
+    },
+    {
+      "fname": "Anushka",
+      "Emailid": "anushka@gmail.com",
+      "userpassword": "222222",
+      "id": 2
+    }
+  ]
+}
